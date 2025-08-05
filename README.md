@@ -124,7 +124,7 @@ emotion_display_duration = 1.0  # How long emotion is shown
 
 - OpenCV (for face detection)
 - scikit-learn (for SVM model)
-- Project by **Shobha Jangade**
+- Project by **Shobha Jangade And Ketan Dinkar**
 
 ---
 
